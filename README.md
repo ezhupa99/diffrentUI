@@ -2,7 +2,7 @@
 
 - Build for **development** `npm run build`
 
-- Build for **production** run command `npm run build --production`
+- Build for **production** `npm run build --production`
 
 ---
 
